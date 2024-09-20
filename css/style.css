@@ -1,0 +1,292 @@
+body {
+
+
+
+
+   font-family: "Oleo Script";
+   font-family: "Amiri", serif;
+
+   background-color: #eee;
+
+}
+
+
+.header {
+
+   background-color: rgb(82, 182, 185);
+   color: white;
+   height: 50px;
+   line-height: 50px;
+
+}
+
+/* start header */
+.header p {
+
+
+   float: right;
+
+
+}
+
+.naver {
+
+
+   color: white;
+}
+
+/* end header  */
+/* start slider */
+
+
+.carousel {
+
+   width: 1000px;
+   display: flex;
+   left: 125px;
+   margin-top: 20px;
+}
+
+/* .overlay{
+
+
+width: 100%;
+height: 100%;
+background-color: rgb(82, 182, 185);
+position: absolute;
+z-index: 1;
+opacity: 0.1;
+} */
+
+/* ens slider */
+/* start feutures */
+.feutures i {
+   width: 100px;
+   height: 100px;
+
+   background-color: rgb(82, 182, 185);
+   line-height: 100px;
+   color: white;
+   font-size: 20px;
+
+
+
+}
+
+.feutures {
+
+
+   margin-top: 50px;
+
+}
+
+.feutures h3 {
+
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.feutures p {
+
+
+   color: rgb(44, 110, 113);
+}
+
+
+.feutures h2 {
+
+
+   font-size: 40px;
+   margin-bottom: 30px;
+}
+
+/* endfeutures */
+/* start our team  */
+
+
+
+.card h5 {
+
+
+   text-align: center;
+
+   text-shadow: 0px 1px 1px black;
+}
+
+.card p {
+
+
+
+   text-align: center;
+
+
+}
+
+.card-body .btn {
+
+
+   text-align: center;
+}
+
+.our-team {
+
+
+   background-color: #eee;
+   padding: 20px;
+   background-image: url(..//images/new-year-2020-bokeh-background-lights-abstract-merry-christmas-backdrop-glitter-light-defocused-particles-multiple-white-particle_113540-148.avif);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+/* end our team  */
+/* start statistic  */
+
+
+.statistic {
+
+
+   width: 100%;
+   height: 600px;
+   background-image: url(..//images/تنزيل\ \(1\).jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 20px;
+   background-attachment: fixed;
+
+
+}
+
+.statistic .overlay {
+
+
+
+   padding-top: 250px;
+
+}
+
+.statistic .overlay h3 {
+
+
+   color: black;
+}
+
+.statistic .overlay p {
+
+
+   color: black;
+   font-size: 75px;
+}
+
+
+/* end statistic  */
+/* start  our-customers */
+.our-customers {
+
+   background-color: white;
+   line-height: 150px;
+   border-bottom: 1px solid rgb(82, 182, 185);
+
+}
+
+/* end our-customers */
+
+/* start rest news  */
+
+
+.recent_news .btn-danger {
+
+
+   background-color: rgb(82, 182, 185);
+   border-color: rgb(82, 182, 185);
+}
+
+.recent_news .btn-danger:hover {
+
+
+   background-color: rgb(32, 140, 216);
+}
+
+/* end rest news  */
+
+/* start footer */
+
+.name p {
+
+   padding-left: 0px;
+   margin: 30px;
+
+   text-align: center;
+}
+
+.name h1 {
+
+   padding: 0px;
+   margin: 30px;
+   text-align: center;
+
+}
+
+.breadcrumb {
+   padding-left: 500px;
+   text-align: center;
+}
+
+footer {
+
+   background-color: rgb(82, 182, 185);
+   padding: 30px;
+   margin-top: 50px;
+   background-image: url(..//images/new-year-2020-bokeh-background-lights-abstract-merry-christmas-backdrop-glitter-light-defocused-particles-multiple-white-particle_113540-148.avif);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+footer p {
+
+
+   color: rgb(16, 71, 72);
+
+}
+
+/* 
+footer h2 {
+
+   color: white;
+} */
+
+footer .first a {
+
+   color: rgb(16, 71, 72);
+   text-decoration: none;
+}
+
+footer .first a:hover {
+
+
+   color: black;
+}
+
+footer ul li {
+
+
+   list-style: none;
+
+}
+
+/* end footer */
+.jumbotron {
+
+   display: flex;
+   justify-content: space-between;
+}
+
+.jumbotron .blog_info {
+
+   flex: 2;
+}
+
+.jumbotron .blog_image {
+
+   flex: 1;
+}
+
